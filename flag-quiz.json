@@ -1,0 +1,62 @@
+[
+{
+  "country":"India",
+  "img":"https://flagcdn.com/w320/in.png",
+  "options":["India","Ireland","Italy","Iran"],
+  "answer":"India"
+},
+{
+  "country":"USA",
+  "img":"https://flagcdn.com/w320/us.png",
+  "options":["USA","UK","Australia","Canada"],
+  "answer":"USA"
+},
+{
+  "country":"Japan",
+  "img":"https://flagcdn.com/w320/jp.png",
+  "options":["China","Japan","Korea","Vietnam"],
+  "answer":"Japan"
+},
+{
+  "country":"Germany",
+  "img":"https://flagcdn.com/w320/de.png",
+  "options":["Belgium","Germany","France","Spain"],
+  "answer":"Germany"
+},
+{
+  "country":"Brazil",
+  "img":"https://flagcdn.com/w320/br.png",
+  "options":["Argentina","Brazil","Mexico","Chile"],
+  "answer":"Brazil"
+},
+{
+  "country":"Canada",
+  "img":"https://flagcdn.com/w320/ca.png",
+  "options":["USA","Canada","UK","Australia"],
+  "answer":"Canada"
+},
+{
+  "country":"France",
+  "img":"https://flagcdn.com/w320/fr.png",
+  "options":["France","Italy","Netherlands","Belgium"],
+  "answer":"France"
+},
+{
+  "country":"Italy",
+  "img":"https://flagcdn.com/w320/it.png",
+  "options":["Ireland","Italy","Hungary","Mexico"],
+  "answer":"Italy"
+},
+{
+  "country":"UK",
+  "img":"https://flagcdn.com/w320/gb.png",
+  "options":["UK","USA","Australia","New Zealand"],
+  "answer":"UK"
+},
+{
+  "country":"Australia",
+  "img":"https://flagcdn.com/w320/au.png",
+  "options":["UK","USA","Australia","Canada"],
+  "answer":"Australia"
+}
+]
