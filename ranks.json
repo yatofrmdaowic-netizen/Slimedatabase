@@ -1,0 +1,52 @@
+[
+  {
+    "name": "⚔️ Mortal",
+    "xp": 0,
+    "img": "https://files.catbox.moe/05n1z3.png"
+  },
+  {
+    "name": "🛡️ Warrior",
+    "xp": 1000,
+    "img": "https://files.catbox.moe/qt4924.png"
+  },
+  {
+    "name": "🔥 Elite",
+    "xp": 3000,
+    "img": "https://files.catbox.moe/w3cmn1.png"
+  },
+  {
+    "name": "👑 Champion",
+    "xp": 7000,
+    "img": "https://files.catbox.moe/3d627y.png"
+  },
+  {
+    "name": "💎 Mythic",
+    "xp": 15000,
+    "img": "https://files.catbox.moe/lo065n.png"
+  },
+  {
+    "name": "✨ Ascended",
+    "xp": 30000,
+    "img": "https://files.catbox.moe/aq1uwv.png"
+  },
+  {
+    "name": "🌌 Eternal",
+    "xp": 60000,
+    "img": "https://files.catbox.moe/j8lusj.png"
+  },
+  {
+    "name": "👼 Divine",
+    "xp": 100000,
+    "img": "https://files.catbox.moe/5m4mz4.png"
+  },
+  {
+    "name": "💀 Immortal",
+    "xp": 200000,
+    "img": "https://files.catbox.moe/bwg6bx.png"
+  },
+  {
+    "name": "👑 Absolute Immortal",
+    "xp": 500000,
+    "img": "https://files.catbox.moe/jz7eak.png"
+  }
+]
