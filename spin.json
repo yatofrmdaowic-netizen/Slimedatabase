@@ -1,0 +1,8 @@
+[
+  { "type": "coin", "amount": 100, "chance": 40 },
+  { "type": "coin", "amount": 500, "chance": 25 },
+  { "type": "coin", "amount": 1000, "chance": 15 },
+  { "type": "limit", "amount": 50, "chance": 10 },
+  { "type": "limit", "amount": 100, "chance": 5 },
+  { "type": "nothing", "amount": 0, "chance": 5 }
+]
